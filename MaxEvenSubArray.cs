@@ -2,7 +2,7 @@
 
 namespace Stack_Hackerank_1
 {
-    class Program
+    class MaxEvenSubArray
     {
         public static void Main1(string[] args)
         {

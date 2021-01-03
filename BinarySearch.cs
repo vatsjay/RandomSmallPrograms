@@ -7,7 +7,7 @@ namespace Stack_Hackerank_1
 {
     class BinarySearch
     {
-        public static void Main(string[] args)
+        public static void Main7(string[] args)
         {
             Console.WriteLine("Input format : input the number to search and in the next line input space separated random numbers");
             int numberToSearch = Int32.Parse(Console.ReadLine());
